@@ -13,5 +13,4 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blhcm-%2312100E.svg?logo=Twitter&logoColor=white" />
   </a>
 </p>
-## Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=blhcm&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+我是sb
